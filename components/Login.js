@@ -1,8 +1,6 @@
 import Image from 'next/image';
-// import { useMoralis } from "react-moralis";
 
 function Login({authenticate}) {
-    // const {authenticate} = useMoralis();
     return (
         <div className='bg-black relative'>
             <h1>Login screen</h1>
